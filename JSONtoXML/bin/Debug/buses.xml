@@ -1,0 +1,17 @@
+<buses>
+  <bus>
+    <routeId xmlns="130" />
+    <headsign xmlns="Muzeum II Wojny" />
+    <departure xmlns="za 6 min" />
+  </bus>
+  <bus>
+    <routeId xmlns="210" />
+    <headsign xmlns="Orunia Gościnna" />
+    <departure xmlns="za 23 min" />
+  </bus>
+  <bus>
+    <routeId xmlns="184" />
+    <headsign xmlns="Wały Piastowskie" />
+    <departure xmlns="za 23 min" />
+  </bus>
+</buses>

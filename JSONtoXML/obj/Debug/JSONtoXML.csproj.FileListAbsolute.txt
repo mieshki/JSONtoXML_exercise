@@ -1,0 +1,11 @@
+C:\Users\mieshki\source\repos\JSONtoXML\JSONtoXML\bin\Debug\JSONtoXML.exe.config
+C:\Users\mieshki\source\repos\JSONtoXML\JSONtoXML\bin\Debug\JSONtoXML.exe
+C:\Users\mieshki\source\repos\JSONtoXML\JSONtoXML\bin\Debug\JSONtoXML.pdb
+C:\Users\mieshki\source\repos\JSONtoXML\JSONtoXML\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mieshki\source\repos\JSONtoXML\JSONtoXML\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\mieshki\source\repos\JSONtoXML\JSONtoXML\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mieshki\source\repos\JSONtoXML\JSONtoXML\obj\Debug\JSONtoXML.csprojAssemblyReference.cache
+C:\Users\mieshki\source\repos\JSONtoXML\JSONtoXML\obj\Debug\JSONtoXML.csproj.CoreCompileInputs.cache
+C:\Users\mieshki\source\repos\JSONtoXML\JSONtoXML\obj\Debug\JSONtoXML.csproj.CopyComplete
+C:\Users\mieshki\source\repos\JSONtoXML\JSONtoXML\obj\Debug\JSONtoXML.exe
+C:\Users\mieshki\source\repos\JSONtoXML\JSONtoXML\obj\Debug\JSONtoXML.pdb
